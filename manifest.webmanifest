@@ -1,0 +1,18 @@
+{
+  "name": "Moje Robótki",
+  "short_name": "Robótki",
+  "description": "Katalog robótek ręcznych i dziennik postępów",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff8fb",
+  "theme_color": "#a85d83",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
